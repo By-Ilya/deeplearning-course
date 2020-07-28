@@ -1,0 +1,5 @@
+.DS_Store
+.vscode
+__pycache__
+week2/datasets
+week2/my_images
